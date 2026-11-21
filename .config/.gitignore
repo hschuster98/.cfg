@@ -1,2 +1,7 @@
 *
 !alacritty
+!qtile/
+!qtile/config.py
+!vim/vimrc
+!zsh/.zshrc
+
