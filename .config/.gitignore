@@ -1,5 +1,7 @@
 *
-!alacritty
+!.gitignore
+!alacritty/
+!alacritty/**
 !qtile/
 !qtile/config.py
 !vim/

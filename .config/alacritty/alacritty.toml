@@ -1,0 +1,15 @@
+[general]
+
+import = [
+"themes/everforest_dark_medium.toml",
+]
+
+live_config_reload = true
+
+[font]
+
+size = 8
+
+[window]
+
+padding = {x=10,y=10}
